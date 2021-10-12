@@ -1,0 +1,43 @@
+body{
+    margin:0px;
+}
+#bg{
+    background-image: url("./images/bear.jpg"), linear-gradient(to left top, #373505, #585909, #79800d, #99aa11, #b8d719);
+    height:650px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-top:100px;
+    background-blend-mode: luminosity;
+    
+}
+.card{
+    height:500px;
+    width:400px;
+    background-color: rgba(162, 216, 247, 0.226);
+    margin-left:180px;
+    padding: 30px;
+    padding-left:30px;
+}
+h1{
+    color: rgb(220, 20, 120); ;
+}
+p{
+    color:rgb(220, 20, 120); ;
+    text-align:center;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+.b{
+    background-color: rgba(125, 241, 174, 0.774);
+    border-radius: 10px;
+    font-size: larger;
+    height: 50px;
+    width: 200px;
+    color: rgb(220, 20, 120); 
+    box-shadow: darkseagreen;
+    margin-top: 100px;
+    margin-left: 90px;
+}
